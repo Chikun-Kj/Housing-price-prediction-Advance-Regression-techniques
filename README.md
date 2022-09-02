@@ -1,2 +1,2 @@
 # Housing-price-prediction-Advance-Regression-techniques
- My first Project
+Goal is to predict house price using advance regression techniques.
